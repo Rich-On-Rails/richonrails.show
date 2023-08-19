@@ -1,0 +1,45 @@
+body {
+	background-color: #4C3957;
+	color: #fff;
+}
+
+a {
+	color: #fff;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #79B473;
+	text-decoration: none;
+}
+
+img.profile_photo{
+	display: none;
+}
+
+.site-header { 
+	text-align: center; 
+}
+
+header h1 a, header h1 a:visited {
+	color: #fff;
+}
+
+.post-nav span {
+color: #79B473;
+}
+
+a.post-date {
+display: none;
+}
+
+nav a, nav a:visited, nav a:hover {
+	border: none;
+	color: #79B473;
+}
+
+nav a:hover, nav a:hover {
+	border: none;
+	color: #79B473;
+	background-color: #414073;
+}
