@@ -1,1 +1,111 @@
-{"title":"Rich On Rails Podcast","author":{"name":"Richard Howell","avatar":"https://micro.blog/richonrails/avatar.jpg","username":"richonrails"},"baseURL":"https://richonrails.show/","mediaTypes":{"application/json":{"suffixes":["json"]}},"outputFormats":{"RSS":{"baseName":"feed"},"JSON":{"baseName":"feed"},"RSD":{"mediaType":"application/xml","baseName":"rsd","isPlainText":true,"notAlternative":true},"ArchiveJSON":{"mediaType":"application/json","path":"archive","baseName":"index","isPlainText":true,"notAlternative":true},"PhotosJSON":{"mediaType":"application/json","path":"photos","baseName":"index","isPlainText":true,"notAlternative":true},"PodcastXML":{"mediaType":"application/rss+xml","baseName":"podcast","isPlainText":true,"notAlternative":true},"PodcastJSON":{"mediaType":"application/json","baseName":"podcast","isPlainText":true,"notAlternative":true}},"outputs":{"home":["HTML","RSS","JSON","RSD","ArchiveJSON","PhotosJSON","PodcastXML","PodcastJSON"],"page":["HTML"],"section":["HTML"],"taxonomy":["HTML","RSS","JSON"],"taxonomyTerm":["HTML","RSS","JSON"]},"taxonomies":{"category":"categories","author":"authors"},"rssLimit":25,"uglyURLs":false,"blackfriday":{"fractions":false},"markup":{"goldmark":{"renderer":{"unsafe":true}},"highlight":{"anchorLineNos":false,"codeFences":true,"guessSyntax":true,"hl_Lines":"","lineAnchors":"","lineNoStart":1,"lineNos":true,"lineNumbersInTable":true,"noClasses":true,"style":"native","tabWidth":4}},"enableRobotsTXT":true,"languageCode":"en","paginate":25,"params":{"description":"Just a normal train nerd but in audio form.","itunes_description":"Just a normal train nerd but in audio form.","itunes_category":"Society \u0026 Culture","itunes_subcategory":"Personal Journals","itunes_author":"Richard Howell","itunes_email":"rich@richonrails.me","itunes_cover":"https://micro.blog/richonrails/podcast.png","twitter_username":"","github_username":"","instagram_username":"","site_id":"113459","paginate_home":true,"paginate_categories":true,"paginate_replies":true,"theme_seconds":"1690705000","plugins_css":[],"plugins_js":[],"plugins_html":["plugin_tinylytics.html"],"feeds":{"bookmarks_json":"https://micro.blog/feeds/richonrails/bookmarks/4893d4cb34161231c3b8.json"},"include_conversation":false,"tinylytics_id":"F1CF_TKnBsZ3TPz7zqiN","tinylytics_emoji":"👍"}}
+{
+  "title": "Rich On Rails Podcast",
+  "author": {
+    "name": "Richard Howell",
+    "avatar": "https://micro.blog/richonrails/avatar.jpg",
+    "username": "richonrails"
+  },
+  "baseURL": "https://richonrails.show/",
+  "mediaTypes": { "application/json": { "suffixes": ["json"] } },
+  "outputFormats": {
+    "RSS": { "baseName": "feed" },
+    "JSON": { "baseName": "feed" },
+    "RSD": {
+      "mediaType": "application/xml",
+      "baseName": "rsd",
+      "isPlainText": true,
+      "notAlternative": true
+    },
+    "ArchiveJSON": {
+      "mediaType": "application/json",
+      "path": "archive",
+      "baseName": "index",
+      "isPlainText": true,
+      "notAlternative": true
+    },
+    "PhotosJSON": {
+      "mediaType": "application/json",
+      "path": "photos",
+      "baseName": "index",
+      "isPlainText": true,
+      "notAlternative": true
+    },
+    "PodcastXML": {
+      "mediaType": "application/rss+xml",
+      "baseName": "podcast",
+      "isPlainText": true,
+      "notAlternative": true
+    },
+    "PodcastJSON": {
+      "mediaType": "application/json",
+      "baseName": "podcast",
+      "isPlainText": true,
+      "notAlternative": true
+    }
+  },
+  "outputs": {
+    "home": [
+      "HTML",
+      "RSS",
+      "JSON",
+      "RSD",
+      "ArchiveJSON",
+      "PhotosJSON",
+      "PodcastXML",
+      "PodcastJSON"
+    ],
+    "page": ["HTML"],
+    "section": ["HTML"],
+    "taxonomy": ["HTML", "RSS", "JSON"],
+    "taxonomyTerm": ["HTML", "RSS", "JSON"]
+  },
+  "taxonomies": { "category": "categories", "author": "authors" },
+  "rssLimit": 25,
+  "uglyURLs": false,
+  "blackfriday": { "fractions": false },
+  "markup": {
+    "goldmark": { "renderer": { "unsafe": true } },
+    "highlight": {
+      "anchorLineNos": false,
+      "codeFences": true,
+      "guessSyntax": true,
+      "hl_Lines": "",
+      "lineAnchors": "",
+      "lineNoStart": 1,
+      "lineNos": true,
+      "lineNumbersInTable": true,
+      "noClasses": true,
+      "style": "native",
+      "tabWidth": 4
+    }
+  },
+  "enableRobotsTXT": true,
+  "languageCode": "en",
+  "paginate": 25,
+  "params": {
+    "description": "Just a normal train nerd but in audio form.",
+    "itunes_description": "Just a normal train nerd but in audio form.",
+    "itunes_category": "Society \u0026 Culture",
+    "itunes_subcategory": "Personal Journals",
+    "itunes_author": "Richard Howell",
+    "itunes_email": "rich@richonrails.me",
+    "itunes_cover": "https://micro.blog/richonrails/podcast.png",
+    "twitter_username": "",
+    "github_username": "",
+    "instagram_username": "",
+    "site_id": "113459",
+    "paginate_home": true,
+    "paginate_categories": true,
+    "paginate_replies": true,
+    "theme_seconds": "1690705000",
+    "plugins_css": [],
+    "plugins_js": [],
+    "plugins_html": ["plugin_tinylytics.html"],
+    "feeds": {
+      "bookmarks_json": "https://micro.blog/feeds/richonrails/bookmarks/4893d4cb34161231c3b8.json"
+    },
+    "include_conversation": false,
+    "tinylytics_id": "F1CF_TKnBsZ3TPz7zqiN",
+    "tinylytics_emoji": "👍"
+  }
+}
